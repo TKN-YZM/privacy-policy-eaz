@@ -2,9 +2,9 @@
 
 **Son Güncelleme Tarihi:** *09.02.2025*
 
-***learnAI tarafından sağlanmıştır.***  
+***TerapistAI tarafından sağlanmıştır.***  
 
-Biz, **learnAI** olarak kullanıcılarımızın gizliliğine büyük önem veriyoruz. Bu gizlilik politikası, uygulamamızın topladığı, kullandığı ve koruduğu bilgiler hakkında sizi bilgilendirmek için hazırlanmıştır.  
+Biz, **TerapistAI** olarak kullanıcılarımızın gizliliğine büyük önem veriyoruz. Bu gizlilik politikası, uygulamamızın topladığı, kullandığı ve koruduğu bilgiler hakkında sizi bilgilendirmek için hazırlanmıştır.  
 
 ---
 
