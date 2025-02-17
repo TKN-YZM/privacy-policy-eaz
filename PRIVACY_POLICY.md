@@ -2,9 +2,9 @@
 
 **Son Güncelleme Tarihi:** *09.02.2025*
 
-***TerapistAI tarafından sağlanmıştır.***  
+***RehberAI tarafından sağlanmıştır.***  
 
-Biz, **TerapistAI** olarak kullanıcılarımızın gizliliğine büyük önem veriyoruz. Bu gizlilik politikası, uygulamamızın topladığı, kullandığı ve koruduğu bilgiler hakkında sizi bilgilendirmek için hazırlanmıştır.  
+Biz, **RehberAI** olarak kullanıcılarımızın gizliliğine büyük önem veriyoruz. Bu gizlilik politikası, uygulamamızın topladığı, kullandığı ve koruduğu bilgiler hakkında sizi bilgilendirmek için hazırlanmıştır.  
 
 ---
 
@@ -30,7 +30,7 @@ Biz, **TerapistAI** olarak kullanıcılarımızın gizliliğine büyük önem ve
 
 #### **4. Kamera ve Galeri Erişimi (`android.permission.CAMERA`, `android.permission.READ_EXTERNAL_STORAGE`)**
 - **Amaç:**  
-  Çizim terapisi bölümünde kullanıcıların yaptığı çizimleri yakalamak ve Gemini AI'ya göndermek için kamera ve galeri erişimi gereklidir.  
+  Çizim  bölümünde kullanıcıların yaptığı çizimleri yakalamak ve Gemini AI'ya göndermek için kamera ve galeri erişimi gereklidir.  
 - **Toplanan Veriler:**  
   Kullanıcının çektiği veya seçtiği resimler sadece işleme amacıyla kullanılır ve kalıcı olarak saklanmaz.  
 
@@ -52,7 +52,7 @@ Biz, **TerapistAI** olarak kullanıcılarımızın gizliliğine büyük önem ve
 
 #### **7. Gemini API Kullanımı**
 - **Amaç:**  
-  Uygulama, metin işleme ve mesajlaşma hizmetlerini sağlamak için OpenAI Gemini altyapısını kullanır.  
+  Uygulama, metin işleme ve mesajlaşma hizmetlerini sağlamak için Google Gemini altyapısını kullanır.  
 - **Toplanan Veriler:**  
   Kullanıcıların gönderdiği mesajlar, yalnızca uygulamanın işlevselliğini sağlamak amacıyla işlenir ve anonim olarak API üzerinden gönderilir.  
 - **Paylaşım ve Saklama:**  
